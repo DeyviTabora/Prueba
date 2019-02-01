@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+h2,p{
+	font-family: open sans;
+}
+
+div#Borde{
+	border-radius: 23px;
+	margin-top: 30px;
+}
+
+main#menu{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+div#part1{
+	width: 600px;
+	height: 500px;
+	background: white;
+	border-radius: 25px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
